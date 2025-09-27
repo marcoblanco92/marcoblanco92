@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Ciao, sono Marco Blanco  
 
-<!--
-**marcoblanco92/marcoblanco92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno sviluppatore software con esperienza nel design e nello sviluppo di applicazioni **backend** orientate ai **microservizi** e ai processi **batch**.  
+Lavoro principalmente con lo stack **Spring**, con particolare attenzione a sicurezza, integrazione e scalabilità dei sistemi.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Competenze Tecniche
+
+- **Backend & Framework**: Java, Spring Boot, Spring Data, Spring Batch, Spring Security  
+- **Microservizi**: Architetture distribuite, comunicazione tramite **Feign Client**, resilienza e fault tolerance  
+- **Messaging**: Apache Kafka (event streaming, integrazione tra sistemi)  
+- **Data Management**: PostgreSQL, MongoDB  
+- **Frontend**: Angular, TypeScript  
+- **Cloud**: Integrazione con servizi AWS (S3 Client)  
+- **In crescita**: Docker, containerizzazione, CI/CD  
+
+---
+
+## 📌 Progetti in Evidenza
+
+- 🔐 [spring-security-aop-auth](https://github.com/marcoblanco92/spring-security-aop-auth)  
+  Implementazione di autenticazione e autorizzazione con **Spring Security**, JWT, OAuth2 e approccio AOP.  
+
+- ⚙️ Progetti di batch processing e microservizi (in continuo sviluppo e consolidamento delle competenze).  
+
+---
+
+## 📫 Contatti
+
+- [LinkedIn](www.linkedin.com/in/marco-blanco)  
+- Email: marcoblanco.dev@gmail.com  
+
+---
+
+📌 Sono sempre interessato a confronti tecnici, collaborazioni e nuove sfide in ambito **microservizi**, **integrazioni enterprise** e **processi batch**.

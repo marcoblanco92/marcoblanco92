@@ -20,7 +20,10 @@ Lavoro principalmente con lo stack **Spring**, con particolare attenzione a sicu
 ## 📌 Progetti in Evidenza
 
 - 🔐 [spring-security-aop-auth](https://github.com/marcoblanco92/spring-security-aop-auth)  
-  Implementazione di autenticazione e autorizzazione con **Spring Security**, JWT, OAuth2 e approccio AOP.  
+  Implementazione di autenticazione e autorizzazione con **Spring Security**, JWT, OAuth2 e approccio AOP.
+
+- 🔐 [spring-declarative-batch](https://github.com/marcoblanco92/spring-declarative-batch)  
+  Implementazione di batch dichiarativi basati su Spring Batch, generati da file YAML di configurazione per la standardizzazione e l’utilizzo di componenti preconfigurati.
 
 - ⚙️ Progetti di batch processing e microservizi (in continuo sviluppo e consolidamento delle competenze).  
 
